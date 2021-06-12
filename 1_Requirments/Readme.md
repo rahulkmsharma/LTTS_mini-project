@@ -25,6 +25,8 @@ The app takes tweets users Tweets and classify it by using some Machine Learning
 
 ## High Level Requirements
 1. The user should be able to provide an input tweet.
+![tweet exaples 2](https://user-images.githubusercontent.com/55554884/121783356-aca18c00-cbcb-11eb-916b-8758def73cdc.png)
+
 2. The system should classify the tweets properly.
 
 ## Low Level Requirements
